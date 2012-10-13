@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="Buffer.cpp" open="1" top="0" tabpos="4">
+		<Cursor position="1902" topLine="0" />
+	</File>
+	<File name="Buffer.h" open="1" top="0" tabpos="5">
+		<Cursor position="1147" topLine="25" />
+	</File>
+	<File name="Catalog.cpp" open="1" top="0" tabpos="9">
+		<Cursor position="1683" topLine="0" />
+	</File>
+	<File name="Catalog.h" open="1" top="0" tabpos="11">
+		<Cursor position="202" topLine="0" />
+	</File>
+	<File name="Func.cpp" open="1" top="0" tabpos="6">
+		<Cursor position="1032" topLine="31" />
+	</File>
+	<File name="Func.h" open="1" top="0" tabpos="7">
+		<Cursor position="395" topLine="0" />
+	</File>
+	<File name="Manager.cpp" open="1" top="1" tabpos="3">
+		<Cursor position="831" topLine="24" />
+	</File>
+	<File name="Manager.h" open="1" top="0" tabpos="8">
+		<Cursor position="244" topLine="9" />
+	</File>
+	<File name="Page.cpp" open="1" top="0" tabpos="2">
+		<Cursor position="3541" topLine="145" />
+	</File>
+	<File name="Page.h" open="1" top="0" tabpos="1">
+		<Cursor position="1529" topLine="34" />
+	</File>
+	<File name="main.cpp" open="1" top="0" tabpos="10">
+		<Cursor position="61" topLine="0" />
+	</File>
+</CodeBlocks_layout_file>

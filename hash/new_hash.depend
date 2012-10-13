@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1336311420 source:d:\c\new_hash\main.cpp
+	<iostream>
+	<stdio.h>
+	"Manager.h"
+
+1336310294 d:\c\new_hash\catalog.h
+	<string>
+	<stdio.h>
+
+1336280155 d:\c\new_hash\catalog.cpp
+	"Catalog.h"
+
+1336311463 d:\c\new_hash\manager.h
+	"Buffer.h"
+	"Catalog.h"
+	"Page.h"
+	"Func.h"
+	<stdio.h>
+
+1336280393 d:\c\new_hash\buffer.h
+	"Page.h"
+
+1336311364 d:\c\new_hash\page.h
+	"Func.h"
+	<string.h>
+	<iostream>
+	<stdio.h>
+
+1336310522 d:\c\new_hash\func.h
+	<string.h>
+

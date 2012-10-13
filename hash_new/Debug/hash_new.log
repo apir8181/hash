@@ -1,0 +1,45 @@
+﻿生成启动时间为 2012/5/14 8:44:27。
+     1>项目“C:\Users\Administrator.TGRQAP6QHVNOH4D\Desktop\hash\hash_new\hash_new.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\hash_new.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         E:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt ..\hash\Manager.cpp
+         Manager.cpp
+     1>c:\users\administrator.tgrqap6qhvnoh4d\desktop\hash\hash\manager.cpp(15): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\program files\microsoft visual studio 10.0\vc\include\stdio.h(234) : 参见“fopen”的声明
+     1>c:\users\administrator.tgrqap6qhvnoh4d\desktop\hash\hash\manager.cpp(18): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\program files\microsoft visual studio 10.0\vc\include\stdio.h(234) : 参见“fopen”的声明
+     1>c:\users\administrator.tgrqap6qhvnoh4d\desktop\hash\hash\manager.cpp(21): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\program files\microsoft visual studio 10.0\vc\include\stdio.h(234) : 参见“fopen”的声明
+     1>c:\users\administrator.tgrqap6qhvnoh4d\desktop\hash\hash\manager.cpp(321): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\administrator.tgrqap6qhvnoh4d\desktop\hash\hash\manager.cpp(358): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\program files\microsoft visual studio 10.0\vc\include\stdio.h(253) : 参见“fscanf”的声明
+     1>c:\users\administrator.tgrqap6qhvnoh4d\desktop\hash\hash\manager.cpp(363): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\program files\microsoft visual studio 10.0\vc\include\stdio.h(253) : 参见“fscanf”的声明
+     1>c:\users\administrator.tgrqap6qhvnoh4d\desktop\hash\hash\manager.cpp(376): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\program files\microsoft visual studio 10.0\vc\include\string.h(105) : 参见“strcpy”的声明
+     1>c:\users\administrator.tgrqap6qhvnoh4d\desktop\hash\hash\manager.cpp(390): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\program files\microsoft visual studio 10.0\vc\include\string.h(105) : 参见“strcpy”的声明
+     1>c:\users\administrator.tgrqap6qhvnoh4d\desktop\hash\hash\manager.cpp(391): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\program files\microsoft visual studio 10.0\vc\include\string.h(105) : 参见“strcpy”的声明
+     1>c:\users\administrator.tgrqap6qhvnoh4d\desktop\hash\hash\manager.cpp(392): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\program files\microsoft visual studio 10.0\vc\include\string.h(105) : 参见“strcpy”的声明
+       Link:
+         E:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Administrator.TGRQAP6QHVNOH4D\Desktop\hash\Debug\hash_new.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\hash_new.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Administrator.TGRQAP6QHVNOH4D\Desktop\hash\Debug\hash_new.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Administrator.TGRQAP6QHVNOH4D\Desktop\hash\Debug\hash_new.lib" /MACHINE:X86 /PROFILE Debug\Buffer.obj
+         Debug\Catalog.obj
+         Debug\Func.obj
+         Debug\main.obj
+         Debug\Manager.obj
+         Debug\Page.obj
+     1>Buffer.obj : warning LNK4075: 忽略“/EDITANDCONTINUE”(由于“/OPT:REF”规范)
+         hash_new.vcxproj -> C:\Users\Administrator.TGRQAP6QHVNOH4D\Desktop\hash\Debug\hash_new.exe
+       Manifest:
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\Administrator.TGRQAP6QHVNOH4D\Desktop\hash\Debug\hash_new.exe;#1" /manifest Debug\hash_new.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         正在删除文件“Debug\hash_new.unsuccessfulbuild”。
+         正在对“Debug\hash_new.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“C:\Users\Administrator.TGRQAP6QHVNOH4D\Desktop\hash\hash_new\hash_new.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:06.92
